@@ -1,5 +1,5 @@
 # Sorting-Algo-Visualizer
-A GUI is graphical demonstrates the operations of various sorting algorithms 
+A GUI that graphically demonstrates the operations of various sorting algorithms 
 ## App Features:
 - Different sorting algorithms: selectiong sort, bubble sort, merge sort, and quick sort
 - Select speed of sort
